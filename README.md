@@ -1,4 +1,4 @@
-### EDA project (python) on the quality of drinking water pumped from underground water aquifers in Israel
+### EDA project (python) on the quality of groundwater drillings in Israel
 * The main database file along with two additional supplementary files, were downloaded from the government database at: https://data.gov.il/dataset
 * The database hold records for the last 9 years (2012-2020).
 * I made use of two visualizations libraries in this project: seaborn and  plotly (express and cufflinks).
